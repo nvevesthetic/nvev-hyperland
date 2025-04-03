@@ -20,14 +20,14 @@ This is an automated setup script for installing and configuring **Hyprland** on
 ## Installation
 ### 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/hyprland-setup-script.git
-cd hyprland-setup-script
+git clone https://github.com/nvevesthetic/nvev-hyperland.git
+cd nvev-hyperland
 ```
 
 ### 2. Run the script:
 ```bash
-chmod +x install-hyprland.sh
-./install-hyprland.sh
+chmod +x nvev-hyperland.sh
+./nvev-hyperland.sh
 ```
 
 ## Optional Customizations
